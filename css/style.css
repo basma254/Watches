@@ -925,8 +925,9 @@ footer{
 
 @media(max-width:900){
     #main{
-        display: flex;
-        flex-direction: column-reverse;
+        /*display: flex;
+        flex-direction: column-reverse;*/
+        display: inline;
     }
     .main-text{
         margin-top: 40px;
@@ -997,6 +998,7 @@ footer{
     .Product-grid-2{
         grid-template-columns: 1fr;
     }
+    
 }
 
 @media(max-width:600px){
@@ -1029,6 +1031,9 @@ footer{
         max-width: 120px;
     }
     .footer-container{
+        grid-template-columns: 1fr;
+    }
+    .Product-grid-half .Product-grid-box1{
         grid-template-columns: 1fr;
     }
 }

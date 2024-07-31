@@ -275,7 +275,8 @@ header a:hover{
 }
 
 @media (max-width:1000){
-    .listProduct{
+    .listProduct,
+    .checkoutLayout{
         width: 50px;
     }
     
@@ -333,6 +334,9 @@ header a:hover{
         text-align: center;
         font-weight: 300;
         
+    }
+    .checkoutLayout{
+        display: inline-block;
     }
 }
 

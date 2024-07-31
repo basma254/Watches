@@ -1,7 +1,7 @@
 [
     {
         "id": 1,
-        "name": "Casio / Black / Women",
+        "name": "Rolex / Black / Women",
         "price": 520,
         "image": "images/رولكس نساء3.webp"
     },
@@ -32,8 +32,8 @@
     },
     {
         "id": 6,
-        "name": "Product 6",
+        "name": "Apple / Blue / Men",
         "price": 120,
-        "image": "images/رولكس.jpg"
+        "image": "images/ابل رجال3.jpg"
     }
 ]
